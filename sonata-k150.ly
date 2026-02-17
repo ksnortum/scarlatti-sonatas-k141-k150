@@ -489,6 +489,7 @@ tempi = {
     
     \barNumberCheck 41
     s4.*4 |
+    \set Score.tempoHideNote = ##t
     s8 \tempo 4. = 66 s \tempo 4. = 60 s |
     \tempo 4. = 56 s4. |
   }
